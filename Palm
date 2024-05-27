@@ -1,0 +1,13 @@
+/palm-trucking
+  /css
+    styles.css
+  /images
+    logo.png
+    hero-bg.jpg
+  /js
+    scripts.js
+  index.html
+  about.html
+  services.html
+  contact.html
+  blog.html
